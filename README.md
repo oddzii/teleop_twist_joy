@@ -1,1 +1,1 @@
-# modify for holonomic robot 
+# modify for Unitree Go1 control
